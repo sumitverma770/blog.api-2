@@ -72,7 +72,7 @@ router.get('/:id',(req,res)=>{
         })
     })
 })
-        
+//122
    //update blog     
    router.put('/:id',(req,res)=>{
        const file = req.files.photo;
